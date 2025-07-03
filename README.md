@@ -18,6 +18,8 @@ To test the Vezor, I went for a short run of 10 kilometres with 370 meters of D
 
 It was a summer run with a temperature of about 20 °C, just after a descent amount of rain. Some rocks exposed to the sun were already dry.
 
+<img src="./vettakollen.webp" alt="Vettakollen route" width="600" />
+
 I didn't do the run with the Speedgoat 6 on the same day, but I did run the route before. And I have run the Speedgoat in the Nordmarka enough to know how it performs in similar conditions. Sorry if you wanted a more scientific test, but I don't think running the same route twice in the same day would have made the whole comparison much more scientific anyway. The conditions change fast, and my fatigue would have been different. A proper scientific test would require more runners, more routes, more conditions, and at least a notebook.
 
 ## Comfort: The Vezor Wins
