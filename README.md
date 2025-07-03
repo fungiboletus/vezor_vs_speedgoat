@@ -1,4 +1,4 @@
-# Rossignol Vezor vs Hoka Speedgoat 6
+# Rossignol Vezor vs Hoka Speedgoat 6 Comparison
 
 [Because of climate change](https://www.lemonde.fr/economie/article/2025/03/19/rossignol-victime-du-dereglement-climatique-fait-le-pari-des-sports-de-montagne-d-ete_6583470_3234.html), the ski equipment company [Rossignol entered the trail running market](https://www.rossignol.com/us-en/trail-running.html) a few months ago with a relatively high-end shoe, the Vezor.
 
@@ -6,7 +6,7 @@
 
 I'm not extremely nerdy about running shoes, but the Rossignol Vezor has a plate and two layers of fancy foams, and I read that it's supposed to be pretty advanced stuff. I also know that the Hoka Speedgoat 6 is a more traditional shoe with no plates and a single layer of not so fancy foam.
 
-Because of such differences, I guess that some people would say that you can't really compare the two shoes, and that explains why I didn't find a comparison between the two online. But they are both trail running shoes, with cushion, good grip, and a similar weight. I think it's fair to compare them.
+Because of such differences, I guess that some people would say that you can't really compare the two shoes, and that explains why I didn't find a comparison between the two online. But they are both trail running shoes, with cushion, good grip, and a similar weight. I think it's fair to compare them, so here is a comparison.
 
 And very importantly, Rossignol decided to sell the Vezor at a competitive price to enter the market. I paid mine 1550 NOK (with 25% VAT), about €125 (with conversion and 20% VAT), or about $125 (no VAT). The price is a bit too good to ignore, it's about the same price as the Hoka Speedgoat 6 from last year when it's on sale.
 
@@ -16,6 +16,8 @@ So, because my Speedgoat 6 is getting a bit used, the price is good, and I'm an 
 
 To test the Vezor, I went for a short run of 10 kilometres with 370 meters of D+ in Oslo's Nordmarka : Vettakollen. It features a good mix of single paths, gravel roads, dry and wet rocks, lots of roots, some mud, a steep ascent, and even a few hundred meters of asphalt. The route alternates between fast and easy sections and technical and slow sections. This is also right next to work and I only had one hour to run.
 
+It was a summer run with a temperature of about 20 °C, just after a descent amount of rain. Some rocks exposed to the sun were already dry.
+
 I didn't do the run with the Speedgoat 6 on the same day, but I did run the route before. And I have run the Speedgoat in the Nordmarka enough to know how it performs in similar conditions. Sorry if you wanted a more scientific test, but I don't think running the same route twice in the same day would have made the whole comparison much more scientific anyway. The conditions change fast, and my fatigue would have been different. A proper scientific test would require more runners, more routes, more conditions, and at least a notebook.
 
 ## Comfort: The Vezor Wins
@@ -23,6 +25,8 @@ I didn't do the run with the Speedgoat 6 on the same day, but I did run the rout
 It's an easy win for the Vezor, the Speedgoat 6 isn't a very comfortable shoe. It's less comfortable than the Speedgoat 5 and many people complained. I have hopes that the Speedgoat 7 will be more comfortable once it's released next year. However, the Speedgoat 6 gives a good feeling of the ground, which is something that I like.
 
 But the Vezor is both comfortable and with a good feeling of the ground. I was surprised about the level of comfort in dry river beds for example. And it's also comfortable on asphalt.
+
+In terms of fit, both are fine but not perfectly adapted to my feet. The Hoka is size 41 1/3 and the Rossignol is size 42. I had to go a bit up in size with the Rossignol to fit my toes, but the Hoka is a bit tight while the size above is just a bit too big. I need more money to have custom shoes moulded to my feet.
 
 ## Grip: The Speedgoat 6 Wins
 
@@ -73,4 +77,4 @@ As I've only run 10 kilometres with the Vezor, I can't say much about the longev
 
 ## Perhaps Get Both
 
-I'm happy about the Rossignol Vezor. I hope Rossignol will stay in this price range because I'm not ready to spend the double on alternative plastic shoes (carbon fiber is mostly plastic by the way). I will also likely continue to buy Hoka Speedgoats because they are great. And remember to buy shoes that fit your feet.
+I'm happy about the Rossignol Vezor and I would say it's worth buying. I hope Rossignol will stay in this price range because I'm not ready to spend the double on alternative plastic shoes (carbon fiber is mostly plastic by the way). I will also likely continue to buy Hoka Speedgoats because they are great. And remember to buy shoes that fit your feet.
